@@ -65,6 +65,3 @@ Redis connection error: ensure Redis is running:
 
     redis-server
 
-## License
-
-MIT License.
