@@ -22,7 +22,7 @@ processes.
 
 Clone the repository:
 
-    git clone https://github.com/your/repo.git](https://github.com/Anthonyvillaaa/Redis-Distributed-Caching-Demo
+    git clone https://github.com/Anthonyvillaaa/Redis-Distributed-Caching-Demo
     cd repo
 
 ## Virtual Environment Setup
